@@ -6,4 +6,4 @@ and I'm planning to learn C++ and more diverse languages.
 I look forward to your kind cooperation. 😄
 
 :milky_way: Experience
-1. Student Research Engineer - Gachon College of Medicine
+1. Student Research Engineer - Gachon College of Medicine Lab
